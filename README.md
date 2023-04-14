@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+![UI flowshop (1)](https://user-images.githubusercontent.com/113785858/231992696-28f7d5a9-65f6-4389-b9db-cab172dc9575.png)
+
 
 This project is a starting point for a Flutter application.
 
